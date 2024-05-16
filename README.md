@@ -1,7 +1,9 @@
 # Titanic_Survival_Prediction
 
-With the data we had, we predicted whether a human being would survive the Titanic crash.
+In the titanic dataset provided by kaggle, we predicted whether a person would survive the Titanic accident.
 
-Here I used Logistic Regression.
+I used Logistic Regression here.
 
-I have an acc score of 0.80 and I will try to raise it.
+My Acc score is 0.80 and I will try to improve it.
+
+kaggle link: https://www.kaggle.com/c/titanic
